@@ -1,0 +1,9 @@
+{
+  "name": "my register",
+  "description": "Secure anti-proxy student attendance register with dynamic rotating QR codes, micro-expiration tokens, and classroom presence verification.",
+  "requestFramePermissions": [
+    "camera",
+    "geolocation"
+  ],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
